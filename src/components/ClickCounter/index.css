@@ -1,0 +1,31 @@
+/* Write your CSS here */
+
+.container {
+  height: 100vh;
+  background-color: #f1f5f8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  text-align: center;
+}
+
+.heading {
+  font-size: 50px;
+  color: #2d3a35;
+}
+
+.counter {
+  color: #c20a72;
+}
+
+.button {
+  background-color: #007bff;
+  padding: 9px;
+  border-radius: 7px;
+  color: #ffffff;
+  cursor: pointer;
+  outline: none;
+}
